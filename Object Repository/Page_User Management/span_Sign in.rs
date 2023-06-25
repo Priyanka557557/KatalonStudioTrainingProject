@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in</name>
+   <tag></tag>
+   <elementGuidId>0655ef63-487c-4528-bf57-a1c66451964d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='forget_password']/div[2]/form/div[5]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ladda-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4fa93282-b61e-43a7-a9fa-51b60f27ea41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ladda-label</value>
+      <webElementGuid>4aa02c58-a4f7-4c03-b175-85f647997092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign in</value>
+      <webElementGuid>013b2ba9-2c85-406c-bc25-98854a8e464b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;form-views&quot;]/div[@class=&quot;page-signin&quot;]/div[@class=&quot;signin-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;form-container&quot;]/div[@id=&quot;forget_password&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;form-horizontal form-validation ng-dirty ng-valid-parse ng-valid-minlength ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group last&quot;]/div[@class=&quot;col-sm-offset-4 col-sm-5&quot;]/button[@class=&quot;ladda-button btn btn-success btn-sm login-button&quot;]/span[@class=&quot;ladda-label&quot;]</value>
+      <webElementGuid>e1c41182-2f1b-4d8f-84d0-1cab009a9ebd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='forget_password']/div[2]/form/div[5]/div/button/span</value>
+      <webElementGuid>2c4fb09e-dae5-44ae-acc2-c1c658380d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::span[1]</value>
+      <webElementGuid>33104943-db41-4c3c-b3f2-fe77da63741c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institution'])[1]/following::span[1]</value>
+      <webElementGuid>a5ee8dfe-a8fd-4ab8-804b-54c3dbbcf2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::span[2]</value>
+      <webElementGuid>4028a1de-e132-4504-a420-74676e9af7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OTP Verification'])[1]/preceding::span[2]</value>
+      <webElementGuid>1eb2b90e-a1d7-4b3b-b08c-adf77c498a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
+      <webElementGuid>d88d0c76-29d0-4581-8e7b-0e6023324fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>3b5bc42a-0ce7-4489-bb9d-85c84c6b8078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Sign in' or . = ' Sign in')]</value>
+      <webElementGuid>d2a78319-0abd-42f4-892a-8d8c34047775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

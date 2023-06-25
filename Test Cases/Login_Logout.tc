@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1st login</description>
+   <name>Login_Logout</name>
+   <tag>@sanity</tag>
+   <comment></comment>
+   <testCaseGuid>3d97d200-20ac-40aa-8cd1-694dd51f9721</testCaseGuid>
+</TestCaseEntity>

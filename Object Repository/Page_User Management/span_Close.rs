@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close</name>
+   <tag></tag>
+   <elementGuidId>f6efa6ca-3fc5-4d8b-899c-4016f4228ca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Role'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.md-primary.md-button.md-ink-ripple.md-focused > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eaedb339-9db6-416c-a42a-f1a8505ffbb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>543353aa-361e-4ca2-bec3-c2fa15f6fe1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;md-dialog-is-showing&quot;]/div[@class=&quot;md-dialog-container&quot;]/md-dialog[@class=&quot;_md md-content-overflow md-transition-in&quot;]/form[@class=&quot;ng-valid ng-valid-required ng-valid-maxlength ng-valid-pattern ng-valid-minlength ng-valid-md-multiple ng-valid-parse ng-dirty&quot;]/md-dialog-actions[1]/button[@class=&quot;md-primary md-button md-ink-ripple md-focused&quot;]/span[1]</value>
+      <webElementGuid>d1596b99-39e3-43db-8bfe-8937137e5d9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Role'])[1]/following::span[2]</value>
+      <webElementGuid>b92bf0d4-21ec-4e8f-ace4-a879d9f38666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disable'])[1]/following::span[4]</value>
+      <webElementGuid>5c0a41de-e9d6-45a8-8247-290a88eb0716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>e60bde86-3c9d-481f-8afa-33f5dc010632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>10aef942-7d8c-4ddc-ad55-5da1f6ae6f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>b8c0d447-08f7-472a-905d-6a8b8e038d05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

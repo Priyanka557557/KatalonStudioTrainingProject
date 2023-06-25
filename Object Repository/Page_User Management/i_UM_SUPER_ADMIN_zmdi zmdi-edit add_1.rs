@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_UM_SUPER_ADMIN_zmdi zmdi-edit add_1</name>
+   <tag></tag>
+   <elementGuidId>95389515-41f0-4972-aac3-a8d8788aed52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='UserListTable']/tbody/tr[10]/td[10]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(10) > td:nth-of-type(10) > div > button.actionBtn > i.zmdi.zmdi-edit.add</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3118b3f3-f075-4af1-a423-03d6d110c55e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zmdi zmdi-edit add</value>
+      <webElementGuid>f0e3e509-4c5e-4d08-bb5e-7762b9319ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserListTable&quot;)/tbody[1]/tr[10]/td[10]/div[1]/button[@class=&quot;actionBtn&quot;]/i[@class=&quot;zmdi zmdi-edit add&quot;]</value>
+      <webElementGuid>e0653669-0e9c-49d6-8a76-5c76dc98a85c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='UserListTable']/tbody/tr[10]/td[10]/div/button/i</value>
+      <webElementGuid>50e153cf-e1b7-4af9-aa39-92de60cdf482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[10]/div/button/i</value>
+      <webElementGuid>22bc440e-687b-406a-8ba9-4e9f7b080e6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
